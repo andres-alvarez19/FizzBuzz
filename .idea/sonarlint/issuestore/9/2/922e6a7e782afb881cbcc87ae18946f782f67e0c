@@ -1,3 +1,5 @@
 
-…
-java:S2094"BRemove this empty class, write its code or make it an "interface".(î”Ñ©8´š£È2J$9b493880-2d60-400e-85c0-f36635988c0f
+}
+java:S1118":Add a private constructor to hide the implicit public one.(î”Ñ©8ÏìÈ2J$bc8de3e0-6fb9-4115-9aac-96f7f829c585
+I
+java:S1172"-Remove this unused method parameter "number".(£”“S8áîìÈ2
